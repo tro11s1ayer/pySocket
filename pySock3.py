@@ -1,4 +1,3 @@
-from ctypes import wintypes
 import socket
 import sys
 
